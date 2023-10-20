@@ -31,7 +31,7 @@ To get started with TechNotes, follow these steps:
 
 ## Deployment
 
- [render](https://render.com/). You can access it at [https://ace-estate.onrender.com/](https://ace-estate.onrender.com/). 
+deployed on [render](https://render.com/). You can access it at [ace-estate](https://ace-estate.onrender.com/). 
 https://ace-estate.onrender.com/
 ## Authors
 
