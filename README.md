@@ -31,8 +31,8 @@ To get started with TechNotes, follow these steps:
 
 ## Deployment
 
-deployed on [render](https://render.com/). You can access it at (https://ace-estate.onrender.com). 
-https://ace-estate.onrender.com/
+The frontend of this project is deployed on [Render](https://render.com). You can access it at [https://ace-estate.onrender.com](https://ace-estate.onrender.com).
+
 ## Authors
 
 github: [pankaj dwivedi](https://github.com/pankajdwivedi077)
