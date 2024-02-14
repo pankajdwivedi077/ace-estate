@@ -4,7 +4,7 @@ Ace Estate is a cutting-edge real estate platform that brings simplicity and eff
 
 ## Getting Started
 
-To get started with TechNotes, follow these steps:
+To get started with ace-estate, follow these steps:
 
 1. Clone this repository.
 2. Install the necessary dependencies using npm install.
@@ -31,7 +31,7 @@ To get started with TechNotes, follow these steps:
 
 ## Deployment
 
-The frontend of this project is deployed on [Render](https://render.com). You can access it at [https://ace-estate.onrender.com](https://ace-estate.onrender.com).
+This project is deployed on [Render](https://render.com). You can access it at [https://ace-estate.onrender.com](https://ace-estate.onrender.com).
 
 ## Authors
 
