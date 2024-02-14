@@ -14,9 +14,6 @@ To get started with ace-estate, follow these steps:
 
 1. Run using npm start.
 
-## Usage
-1. change baseUrl inside of src/app/api/apiSlice to the baseurl of your express server because this code is deployed to run this repo in local environment you have to change it.
-
 ## Key Features:
 
 1. Property Listings: Explore a wide range of property listings that cater to all your housing needs, whether you're looking to buy, rent, or simply curious about the market.
