@@ -10,10 +10,6 @@ To get started with ace-estate, follow these steps:
 2. Install the necessary dependencies using npm install.
 3. Set up MongoDB and configure the connection in the project.
 
-## installation
-
-1. Run using npm start.
-
 ## Key Features:
 
 1. Property Listings: Explore a wide range of property listings that cater to all your housing needs, whether you're looking to buy, rent, or simply curious about the market.
